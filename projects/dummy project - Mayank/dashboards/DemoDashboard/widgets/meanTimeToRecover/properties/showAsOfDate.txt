@@ -1,0 +1,1 @@
+$[/javascript var date = new Date(); var d = '' + date.getDate(); var m = '' + (date.getMonth() + 1); '' + date.getFullYear() + '-' + (m<=9 ? '0' + m : m) + '-' + (d <= 9 ? '0' + d : d);]
