@@ -1,0 +1,1 @@
+Launching trigger 'bitbucketTriggerCloud' for event 'pull_request' with state/action 'updated' in branch(es) 'Michael-DiFalco/testsh-edited-online-with-bitbucket-1682389912789' of the 'mdifal2/demo' repository.
